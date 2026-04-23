@@ -8,9 +8,7 @@ This bypass is not guarenteed to be functional on all versions of SEB and on all
 I edited the source code of Safe Exam Browser to always return false for virtual machine detection, and always return success when it attempts to verify it's integrity.
 
 ### Setup
-You can either download the project or git clone it, download, then compile it yourself(requires C# runtimes and visual studio). Then navigate to SafeExamBrowser.Runtime\bin\x64\debug. Finally copy all the files from there into your existing SEB installation (typically at 'C:\Program Files\SafeExamBrowser\Application\').
-
-Or, download the release which contains everything you need, already compiled. After the download has completed navigate to your SEB installation(typically at 'C:\Program Files\SafeExamBrowser\Application\'). Then drag and drop all everything from the folder you downloaded into there. On the popup click 'replace the files in this destination'. 
+You can download the release which contains everything you need, already compiled. After the download has completed navigate to your SEB installation(typically at 'C:\Program Files\SafeExamBrowser\Application\'). Then drag and drop all everything from the folder you downloaded into there. On the popup click 'replace the files in this destination'. 
 
 ### Common Issues
 A big red screen/SEB crashess: make sure you compiled in debug x64, I honestly have no clue why release functions that way.

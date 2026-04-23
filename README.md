@@ -16,4 +16,5 @@ Or, download the release which contains everything you need, already compiled. A
 A big red screen/SEB crashess: make sure you compiled in debug x64, I honestly have no clue why release functions that way.
 
 ### Showcase
-<img width="1919" height="1079" alt="SEB" src="https://github.com/user-attachments/assets/b8517109-73db-4047-94dc-60ae626b1a8f" />
+<img width="1919" height="1079" alt="SEB" src="https://github.com/user-attachments/assets/d6abcb2e-9f83-48e7-9b2e-d7a3b18de7fd" />
+

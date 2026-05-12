@@ -2,7 +2,7 @@
 Allows you to run Safe Exam Browser in ANY virtual machine, essentially defeating their anti client tampering and anti Virtual machine detection.
 
 ## Warning
-This bypass is not guarenteed to be functional on all versions of SEB and on all proctoring setups. To get the fully updated, working bypass join our discord at: https://discord.gg/nZwExHwPgw 
+This bypass is not guarenteed to be functional on all versions of SEB and on all proctoring setups. To get the fully updated, working bypass join our discord at: [ https://discord.gg/nZwExHwPgw ](https://discord.gg/HBjpBv9dUv)
 
 ### How it works
 I edited the source code of Safe Exam Browser to always return false for virtual machine detection, and always return success when it attempts to verify it's integrity.
